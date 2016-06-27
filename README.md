@@ -12,6 +12,3 @@ Ex: python SStealth -t 127.0.0.1 #Scan Top Ports <br>
 Create BY : Julian Pedro F. Braga
 ## License
 Open Source
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
